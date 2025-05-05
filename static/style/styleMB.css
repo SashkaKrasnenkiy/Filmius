@@ -521,8 +521,8 @@ header section:hover .bi-chevron-left {
     }
 
     /* Шапка */
-    header {
-        height: 60vh;
+     header {
+        height: 100vh;
         border-radius: 0;
         margin: 0;
         box-shadow: none;

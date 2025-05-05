@@ -264,10 +264,9 @@ header .content .btns a {
 header section {
     position: absolute;
     width: 100%;
-    height: auto;
-    padding-top:20px ;
+    height: 250px;
+    top: 60% ;
     padding: 0px 15px;
-    bottom: 50px;
     color: #ffffff;
 }
 

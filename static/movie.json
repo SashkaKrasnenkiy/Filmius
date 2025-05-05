@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Breaking Bad",
+    "imdb": 9.5,
+    "description": "Школьный учитель химии Уолтер Уайт узнаёт, что болен раком лёгких. Учитывая сложное финансовое состояние дел семьи, а также перспективы, Уолтер решает заняться изготовлением метамфетамина. Для этого он привлекает своего бывшего ученика Джесси Пинкмана.",
+    "product": "Sony Pictures Television",
+    "date": "2008",
+    "sposter": "static/img/breakingbad.jpg",
+    "bposter": "static/img/breakingbad1.jpg",
+    "genre": "Crime",
+    "type": "series",
+    "url": "movie.html?id=breakingbad",
+    "trailer": "/static/video/Breaking Bad.mp4",
+    "Film":"https://peertube.wtf/videos/embed/hernhu7dHJYCbBdjDzXPXQ?warningTitle=0&amp;peertubeLink=0&amp;p2p=0",
+    "low": "video/breakingbad_low.webm",
+    "medium": "video/breakingbad_720p.mp4",
+    "high": "video/breakingbad_1080p.mp4",
+    "episodes": [
+      {
+        "title": "1 сезон, 1 серия - Pilot",
+        "imdb": 9.0,
+        "thumbnail": "static/img/Breakingbad1s/pilot.webp",
+        "descriptionS": "Школьный учитель химии, узнав о своем раке легких, решает начать производить метамфетамин, чтобы обеспечить семью после своей смерти. Он объединяется с бывшим учеником Джесси Пинкманом и делает первый шаг в мир преступности.",
+        "url": "movie.html?id=breakingbad",
+        "trailer": "https://peertube.wtf/videos/embed/hernhu7dHJYCbBdjDzXPXQ?warningTitle=0&amp;peertubeLink=0&amp;p2p=0"
+      },
+      {
+        "title": "1 сезон, 2 серия - Cat's in the Bag...",
+        "imdb": 8.9,
+        "thumbnail": "static/img/Breakingbad1s/Cat's in the Bag....webp",
+        "descriptionS": "Уолтер и Джесси пытаются избавиться от тел наркоторговцев, но один из них оказывается жив. Они запирают его в фургоне, а позже сталкиваются с проблемой растворения трупов в кислоте, что приводит к катастрофическим последствиям.",
+        "url": "movie.html?id=breakingbads1e2",
+        "trailer": "https://peertube.wtf/videos/embed/7c12TrV7hm7Brs9TkWZcKN?warningTitle=0&amp;peertubeLink=0&amp;p2p=0"
+      },
+      {
+        "title": "1 сезон, 3 серия - And the Bag's in the River",
+        "imdb": 9.1,
+        "thumbnail": "static/img/Breakingbad1s/And the Bag's in the River.webp",
+        "descriptionS": "Уолтер принимает судьбоносное решение о судьбе Крейзи-8, что становится поворотным моментом в его моральном падении. Тем временем его жена Скейлер начинает подозревать, что он что-то скрывает.",
+        "url": "movie.html?id=breakingbads1e3",
+        "trailer": "https://peertube.wtf/videos/embed/uqgsTmdiycsYznC79GLrkz?warningTitle=0&amp;peertubeLink=0&amp;p2p=0"
+      },
+      {
+        "title": "1 сезон, 4 серия - Cancer Man",
+        "imdb": 8.8,
+        "thumbnail": "static/img/Breakingbad1s/Cancer Man.webp",
+        "descriptionS": "Уолтер сообщает семье о своем диагнозе, но скрывает, что уже начал готовиться к худшему. Тем временем Джесси пытается продать их первую партию метамфетамина, сталкиваясь с неожиданными трудностями.",
+        "url": "movie.html?id=breakingbads1e4",
+        "trailer": "https://peertube.wtf/videos/embed/q3kjH1UBKnXHVhcVmq9un6?warningTitle=0&amp;peertubeLink=0&amp;p2p=0"
+      },
+      {
+        "title": "1 сезон, 5 серия - Gray Matter",
+        "imdb": 8.7,
+        "thumbnail": "static/img/Breakingbad1s/Gray Matter.webp",
+        "descriptionS": "Старые друзья Уолтера предлагают ему финансовую помощь для лечения, но его гордость мешает принять её. Джесси тем временем пытается наладить сбыт наркотиков, но терпит неудачу.",
+        "url": "movie.html?id=breakingbads1e5",
+        "trailer": "https://peertube.wtf/videos/embed/ed1Y1AannGvnzpJoDhbjto?warningTitle=0&amp;peertubeLink=0&amp;p2p=0"
+      },
+      {
+        "title": "1 сезон, 6 серия - Crazy Handful of Nothin'",
+        "imdb": 9.2,
+        "thumbnail": "static/img/Breakingbad1s/Crazy Handful of Nothin.webp",
+        "descriptionS": "Уолтер решает взять дело в свои руки и жестоко расправляется с местным наркодилером Туко, используя свои знания химии. Это событие становится его первым шагом к превращению в Хайзенберга.",
+        "url": "movie.html?id=breakingbads1e6",
+        "trailer": "https://peertube.wtf/videos/embed/8dk96GjMPwYU3zo3xqqLpU?warningTitle=0&amp;peertubeLink=0&amp;p2p=0"
+      },
+      {
+        "title": "1 сезон, 7 серия - A No-Rough-Stuff-Type Deal",
+        "imdb": 8.9,
+        "thumbnail": "static/img/Breakingbad1s/A No-Rough-Stuff-Type Deal.webp",
+        "descriptionS": "Уолтер и Джесси пытаются наладить сотрудничество с Туко, но их ждёт неожиданное препятствие. Тем временем, Хэнк продолжает расследование, что заставляет Уолтера нервничать.",
+        "url": "movie.html?id=breakingbads1e7",
+        "trailer": "https://peertube.wtf/videos/embed/jzE9Bn8WwCAerBe5xLczir?warningTitle=0&amp;peertubeLink=0&amp;p2p=0"
+      }
+    ]
+  },
+  {
+    "name": "John Wick",
+    "imdb": 9.8,
+    "description": "После смерти жены бывший наемный убийца Джон Уик возвращается в криминальный мир...",
+    "date": "2022",
+    "sposter": "static/img/Jhon Wick.jpg",
+    "bposter": "static/img/jhon wick1.webp",
+    "genre": "Action",
+    "type": "movie",
+    "url": "movie.html?id=johnwick",
+    "trailer": "static/video/john wick.webm",
+    "Film":"static/video/john wick.webm",
+    "low": "video/Jhon Wick 480ph.mp4",
+    "medium": "video/Jhon Wick 720ph.mp4",
+    "high": "video/Jhon Wick 1080ph.mp4",
+    "episodes": []
+  }
+]
